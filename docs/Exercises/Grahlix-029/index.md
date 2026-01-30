@@ -13,7 +13,7 @@
 
 ## Informazioni iniziali
 #### - I took the photo below whilst riding a train in the UK. I always prefer quiet areas where no one can sit behind me because, in a public space, no information is truly private.
-- ![[ss01.png]]
+- ![ss01.png](Media/ss01.png)
 
 ## Strumenti usati
 -
