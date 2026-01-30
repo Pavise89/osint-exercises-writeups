@@ -4,7 +4,7 @@
 #### Piattaforma: Grahlix
 #### Livello: Hard/Medium/Hard
 #### Date: 2026/01/30
-#### Link: [[Link - Grahlix-29]] https://gralhix.com/list-of-osint-exercises/osint-exercise-029/
+#### Link: https://gralhix.com/list-of-osint-exercises/osint-exercise-029/
 
 ## Obiettivo
 ### 1. Uncover what the person in front of me was reading.
@@ -19,7 +19,7 @@
 -
 
 ## Passaggi
-1. Ok iniziamo dalla seconda, sappiamo che è negli UK che ce l'ha detto lei, vediamo se ha lasciato i metadati nell'immagine con [[Exif Viewer]], ovviamente li ha tolti la maledetta
+1. Ok iniziamo dalla seconda, sappiamo che è negli UK che ce l'ha detto lei, vediamo se ha lasciato i metadati nell'immagine con Exif Viewer, ovviamente li ha tolti :)
 2. Su wikipedia https://en.wikipedia.org/wiki/Rail_transport_in_Great_Britain c'è questa tabella di treni ad alta velocità: [[High speed trains in Britain]], potrei guardarli uno a uno 
 3. Provo una ricerca per immagini specifica: ![[ss02.png]] si trova questo articolo: https://philiphaigh.co.uk/2021/09/when-will-passengers-return/ con questa immagine: ![[ss03.png]] il sedile sembra quello anche se l'adesivo è diverso ma l'immagine dell'articolo è stata scattata nel 2021 quindi ci sta. Cerchiamo di capire il resto del treno
 4. I cuscini sono dello stesso colore
