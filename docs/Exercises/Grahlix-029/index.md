@@ -31,7 +31,7 @@
 	5. Qui ![ss06.png](Media/ss06.png) conferma che è un LNER (da notare che se sei in una priority seat lo scrivono e lì nel sedile davanti non c'è scritto)
 7. Ok sembra evidente che sia un **LNER Azuma 801**, cerchiamolo su google per vedere se risolviamo il problema della barra grigia e troviamo altre info sul posto (BTW, c'è nell'elenco di wiki di prima)
 8. https://en.wikipedia.org/wiki/British_Rail_Class_801 qui ci sono molte info e in particolare un link a questo pdf: ![LNER2710_Azuma_Seat_Maps_Update_V3.pdf](Media/LNER2710_Azuma_Seat_Maps_Update_V3.pdf)
-9. Considerando che non ha nessuno dietro (lo ha scritto) è in standard class e il sedile davanti non è priority per esclusione l'unico posto possibile è **Coach G seat 6**: ![ss07.png](Media/ss07.png)
+9. Considerando che non ha nessuno dietro (lo ha scritto) è in standard class e il sedile davanti non è priority per esclusione l'unico posto possibile è **Coach G seat 6**: (SBAGLIATO!! Vedi nota finale) ![ss07.png](Media/ss07.png)
 10. In realtà la parte rossa c'è: ![ss08.png](Media/ss08.png)
 11. Per rispondere alla 1 specchio l'immagine e faccio zoom: ![ss09.png](Media/ss09.png)
 12. Si riconoscono alcune parole o sequenze: "long" "have seen better days" "gloves" "portmanteau" (?) "whistle" "she has the" "William's cousin"
@@ -42,4 +42,5 @@
 ## Risultato 
 #### 1. The Fair Botanist, Sara Sheridan
 #### 2. LNER Azuma 801
-#### 3. Coach G, seat 6
+#### 3. ~~Coach G, seat 6~~: Nota finale: in realtà era coach H, posto 83 come da walkthrough video, ci si arriva con gli indizi messi da lei nella prima frase e il mio discorso sulle priority seat non era evidentemente giusto
+
